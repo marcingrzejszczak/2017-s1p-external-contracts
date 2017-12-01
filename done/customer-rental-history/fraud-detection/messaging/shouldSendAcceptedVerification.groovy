@@ -14,6 +14,7 @@ then:
 ```
 
 """)
+	ignored()
 	label 'accepted_verification'
 	input {
 		triggeredBy('clientIsNotAFraud()')
