@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>custom-rental-history</artifactId>
+	<artifactId>customer-rental-history</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>custom-rental-history</name>
